@@ -56,6 +56,8 @@ server.listen(8080, () => {
     console.log("The server is running at PORT 8080");
 });
 
+hi 
+
 //create db storing all products
 //user autho admin autho 
 //tailwind 
